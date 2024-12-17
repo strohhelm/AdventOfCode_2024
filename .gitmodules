@@ -1,0 +1,6 @@
+[submodule "libft_42"]
+	path = libft_42
+	url = git@github.com:strohhelm/libft_42.git
+[submodule "get_next_line_42"]
+	path = get_next_line_42
+	url = git@github.com:strohhelm/get_next_line_42.git
